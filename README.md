@@ -32,5 +32,8 @@ The app utilizes the Coinranking API provided by RapidAPI. You can learn more ab
 This iOS app demonstrates the use of the Coinranking API to display current cryptocurrency price updates in a TableView interface. Users can like/favorite a particular currency and view all the cryptocurrencies they have liked. It serves as a great example of how to integrate an API into an iOS app.
 
 
-<img src="app1.png" style="width: 50%;">
-<img src="app2.png" style="width: 50%;">
+<div style="display:flex">
+   <img src="app1.png" style="width:25%">
+   <img src="app2.png" style="width:25%">
+</div>
+
